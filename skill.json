@@ -1,0 +1,13 @@
+{
+  "name": "genpark-viewstamped-replication-vr-consensus-skill",
+  "version": "1.0.0",
+  "description": "Viewstamped Replication (VR) engine implementing normal state machine operation, view-change reconfiguration, and primary failover recovery.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "viewstamped-replication",
+    "vr-consensus",
+    "state-machine-replication",
+    "failover"
+  ]
+}
